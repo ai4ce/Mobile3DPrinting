@@ -16,6 +16,7 @@ Fused deposition modeling (FDM) using mobile robots instead of the gantry-based 
 #### Printing Robot Design
 ![Robot Design](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/02.png)
 
+## Learning-Based Visual Servoing (LBVS)
 
 ## Experiment Results
 #### Trajectory and Control Test
