@@ -1,8 +1,10 @@
 ## Projector-Guided Non-Holonomic Mobile 3D Printing
 
-You can use the [editor on GitHub](https://github.com/ai4ce/Mobile3DPrinting/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Xuchu Xu, Ziteng Wang, Chen Feng
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+International Conference on Robotics and Automation (ICRA) 2021
+
+[New York University Tandon School of Engineering](https://ai4ce.github.io)
 
 ### Markdown
 
