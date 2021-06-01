@@ -17,6 +17,11 @@ Fused deposition modeling (FDM) using mobile robots instead of the gantry-based 
 ![Robot Design](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/02.png)
 
 
+## Experiment Results
+#### Trajectory and Control Test
+![exp1](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/03.png)
+
+
 ## [Paper (arXiv)](https://arxiv.org/abs/2105.08950)
 To cite our paper:
 ```
