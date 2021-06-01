@@ -9,6 +9,11 @@ International Conference on Robotics and Automation (ICRA) 2021
 ## Abstract
 Fused deposition modeling (FDM) using mobile robots instead of the gantry-based 3D printer enables additive manufacturing at a larger scale with higher speed. This introduces challenges including accurate localization, control of the printhead, and design of a stable mobile manipulator with low vibrations and proper degrees of freedom. We proposed and developed a low-cost non-holonomic mobile 3D printing system guided by a projector via learning-based visual servoing. It requires almost no manual calibration of the system parameters. Using a regular top-down projector without any expensive external localization device for pose feedback, this system enabled mobile robots to accurately follow pre-designed millimeter-level printing trajectories with speed control. We evaluate the system in terms of its trajectory accuracy and printing quality compared with original 3D designs. We further demonstrated the potential of this system using two such mobile robots to collaboratively print a 3D object with dimensions of 80 cm × 30 cm size, which exceeds the limitation of common desktop FDM 3D printers.
 
+## System Setup and Robot Design
+![Baseline_barchart](https://github.com/ai4ce/SPARE3D/raw/master/docs/figs/baseline_barchart.PNG)
+
+
+
 ## [Paper (arXiv)](https://arxiv.org/abs/2105.08950)
 To cite our paper:
 ```
@@ -20,33 +25,6 @@ To cite our paper:
 }
 ```
 
-
-## Format
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ai4ce/Mobile3DPrinting/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
