@@ -12,11 +12,11 @@ Fused deposition modeling (FDM) using mobile robots instead of the gantry-based 
 ## [Paper (arXiv)](https://arxiv.org/abs/2105.08950)
 To cite our paper:
 ```
-@inproceedings{SPARE3D_CVPR_2020,
+@inproceedings{ProjectorM3DP_ICRA_2021,
   title={Projector-Guided Non-Holonomic Mobile 3D Printing},
   author={Xu, Xuchu and Wang, Ziteng and Feng, Chen},
   booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2020}
+  year={2021}
 }
 ```
 
