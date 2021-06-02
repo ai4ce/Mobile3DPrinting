@@ -11,10 +11,10 @@ Fused deposition modeling (FDM) using mobile robots instead of the gantry-based 
 
 ## Projector-3D Printing System 
 #### Project System Setup
-![System Setup](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/01.png)
+![System Setup](https://raw.githubusercontent.com/ai4ce/Mobile3DPrinting/main/Figures/01.png)
 
 #### Printing Robot Design
-![Robot Design](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/02.png)
+![Robot Design](https://raw.githubusercontent.com/ai4ce/Mobile3DPrinting/main/Figures/02.png)
 
 ## Learning-Based Visual Servoing (LBVS)
 
