@@ -24,7 +24,7 @@ Fused deposition modeling (FDM) using mobile robots instead of the gantry-based 
 #### Single Robot Printing Test
 ![exp2-1](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/06.png)
 ![exp2-2](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/07.png)
-#### Single Robot Printing Test
+#### Large-Scale Collaborative Printing
 ![exp3](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/08.png)
 
 ## [Paper (arXiv)](https://arxiv.org/abs/2105.08950)
