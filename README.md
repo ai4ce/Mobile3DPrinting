@@ -20,15 +20,15 @@ Fused deposition modeling (FDM) using mobile robots instead of the gantry-based 
 
 ## Experiment Results
 #### Trajectory and Control Test
-![exp1_gif](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/05.gif)
-![exp1](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/05.png)
+![exp1_gif]((https://raw.githubusercontent.com/ai4ce/Mobile3DPrinting/main/Figures/05.gif)
+![exp1]((https://raw.githubusercontent.com/ai4ce/Mobile3DPrinting/main/Figures/05.png)
 #### Single Robot Printing Test
-![exp2_gif](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/07.gif)
-![exp2-1](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/06.png)
-![exp2-2](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/07.png)
+![exp2_gif]((https://raw.githubusercontent.com/ai4ce/Mobile3DPrinting/main/Figures/07.gif)
+![exp2-1]((https://raw.githubusercontent.com/ai4ce/Mobile3DPrinting/main/Figures/06.png)
+![exp2-2]((https://raw.githubusercontent.com/ai4ce/Mobile3DPrinting/main/Figures/07.png)
 #### Large-Scale Collaborative Printing
-![exp3_gif](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/08.gif)
-![exp3](https://github.com/ai4ce/Mobile3DPrinting/blob/main/Figures/08.png)
+![exp3_gif]((https://raw.githubusercontent.com/ai4ce/Mobile3DPrinting/main/Figures/08.gif)
+![exp3]((https://raw.githubusercontent.com/ai4ce/Mobile3DPrinting/main/Figures/08.png)
 
 ## [Paper (arXiv)](https://arxiv.org/abs/2105.08950)
 To cite our paper:
